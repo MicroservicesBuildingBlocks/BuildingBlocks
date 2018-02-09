@@ -1,0 +1,3 @@
+[submodule "submodules/HealthChecks"]
+	path = submodules/HealthChecks
+	url = https://github.com/seven1986/HealthChecks.git
